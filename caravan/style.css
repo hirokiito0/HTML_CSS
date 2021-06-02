@@ -19,7 +19,7 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
   text-align: center;
   padding: 10px 0;
   margin: 0 auto;
-  
+
 }
 
 .nav-list-item {
@@ -31,7 +31,7 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
 .main-visual {
   width: 100%; /* 横幅いっぱい */
   height: 300px; /* 高さ300px */
-
+  background-image: url(img/mv.jpg)
 }
 
 .main-visual-content {
