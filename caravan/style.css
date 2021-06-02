@@ -19,6 +19,7 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
   text-align: center;
   padding: 10px 0;
   margin: 0 auto;
+  
 }
 
 .nav-list-item {
