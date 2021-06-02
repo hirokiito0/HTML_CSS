@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100%;
+}
+
+main div {
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.sakura {
+  background-image: url(img/box1.jpg);
+}
+
+.umi {
+  background-image: url(img/box2.jpg);
+}
+
+.kaede {
+  background-image: url(img/box3.jpg);
+}
+
+.yukiyama {
+  background-image: url(img/box4.jpg);
+}
