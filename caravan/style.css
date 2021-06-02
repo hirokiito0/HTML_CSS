@@ -38,9 +38,9 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
 }
 
 .main-visual-content {
-  width: 350px; /* 横幅350px */
+  width: 40%;
   height: 300px; /* 親の高さに揃える */
-
+  background-color: rgba( 0, 0, 0, 0.5);
 }
 
 .main {
