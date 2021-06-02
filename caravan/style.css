@@ -227,10 +227,40 @@ footer {
 
   .nav-list-item {
     display: block;
-    padding: 5px;
+    margin: 0  0 5px 0;
+  }
+
+  .social {
+    display: none;
   }
 
   .main-visual-content {
     width: 100%;
   }
+
+  main {
+    display: block;
+    width: 100%;
+  }
+
+  .blog {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .blog-box {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .blog-image {
+    width: 50%;
+  }
+
+  .blog-text {
+    width: 45%;
+    padding-top: 10px;
+  }
+
+  
 }
