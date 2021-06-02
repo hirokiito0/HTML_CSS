@@ -262,5 +262,24 @@ footer {
     padding-top: 10px;
   }
 
-  
+  .pagination {
+    margin-bottom: 50px;
+  }
+
+  .sidebar {
+    width: 100%;
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
+  .instagram-box {
+    width: 45%;
+    padding-top: 45%;
+  }
+
+  .instagram-box:nth-child(odd) {
+    margin-left: 3%;
+  }
+
 }
